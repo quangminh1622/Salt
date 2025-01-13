@@ -1,0 +1,47 @@
+.banner {
+    background: url("img/giuginvaphathuy.jpg") no-repeat center center;
+    background-size:cover;
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+    text-align: center !important;
+    color: rgba(2, 2, 2, 0.884) !important;
+}
+.slogan {
+    text-align: center !important;
+    width: 100%;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top:  -1;
+  max-width: 100%;
+  padding-right: 3rem;
+  padding-left: 3 rem;
+  background-color: hsl(194, 84%, 75%);
+}
+.block_3{
+  flex: 0 0 auto;
+  width: 30%;
+  margin: 10px;
+}
+.cell_img {
+    width: 50%;
+}
+.cell_text {
+  width: 50%;
+  padding-left: 5rem;
+}
+
+footer {
+  background-color: hsl(194, 78%, 73%);
+  margin: 1px;
+  padding: 10px;
+}
+.link {
+    color:rgb(38, 145, 52);
+    text-align: left;
+}
+.menu {
+    font-size: 120%;
+    text-decoration: none;
+}
